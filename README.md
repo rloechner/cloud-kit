@@ -82,4 +82,8 @@ This project is licensed under the [MIT License](https://mit-license.org).
 
 CloudKit aims to provide a simple, maintainable web solution that anyone can use to create a professional online presence without the hassle of complex setups. Whether you’re a non-profit, a personal trainer, a chef, or a guitar player, this toolkit is designed to be flexible and easy to extend.
 
+This entire project is being built using **ChatGPT prompts**—curated, tested, and implemented by me! The goal is to see if we can create a fully cloud-based, easy-to-replicate website starter kit that anyone can fork and use.  
+
+Think of it as an AI-assisted web development experiment. If you're reading this and trying to follow along, welcome to the journey! 🚀  
+
 **Happy coding!**
